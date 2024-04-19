@@ -1,5 +1,4 @@
-﻿ID,Tank Failure Pressure (bar),Liquid Ratio (%),Tank Width (m),Tank Length (m),Tank Height (m),Tank Volume ,BLEVE Height (m),Vapour Height (m),Vapour Temperature (K),Liquid Temperature (K),Obstacle Distance to BLEVE (m),Obstacle Width (m),Obstacle Height (m),Obstacle Thickness (m),Obstacle Angle,"Status flag (subcooled=1, superheated=0)",Liquid Critical Pressure (bar),Liquid Boiling Temperature (K),Liquid Critical Temperature (K),Liquid Type,Sensor ID,Sensor Position Side,Sensor Position x,Sensor Position y,Sensor Position z,Target Pressure (bar),Duplicate Flag,missing values
-10244,36.91,0.64,1.58,9.39,0.58,8.604996,1.01,0.22,442.31,299.28,18,4,11,2.79,3,1,37.9,-1,152,1,12,2,18.75,-0.8,9.7,0.37225378,0,0
+﻿10244,36.91,0.64,1.58,9.39,0.58,8.604996,1.01,0.22,442.31,299.28,18,4,11,2.79,3,1,37.9,-1,152,1,12,2,18.75,-0.8,9.7,0.37225378,0,0
 8781,28.32,0.49,2.78,9.19,0.78,19.927596,0.61,0.41,336.7,343.76,17,13,6,1.01,0,1,42.5,-42,96.7,0,7,1,19.45,6.3,-0.6,0.071672678,0,0
 7093,5.36,0.3,2.81,2.79,1.79,14.033421,0,1.41,314.78,424.6,9,13,9,2.58,6,0,37.9,-1,152,1,20,3,11.7,-5.55,3.8,0.2905584,0,0
 3392,21.09,0.67,1.61,4.21,1.2,8.13372,0.99,0.41,410.73,286.74,15,8,15,0.6,29,1,42.5,-42,96.7,0,18,2,15.75,12.2,13.6,0.1053441,0,0
